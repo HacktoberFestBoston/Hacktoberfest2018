@@ -40,3 +40,10 @@ If you don't already have one, choose and install a code editor, and spend some 
 
 - [Up for Grabs](https://up-for-grabs.net/#/)
 - [First Timers Only](https://www.firsttimersonly.com/)
+
+## Today's contributions
+- **Your Name**
+
+  - [GitHub](https://github.com/githubuser)
+  Summary of what you did today
+
