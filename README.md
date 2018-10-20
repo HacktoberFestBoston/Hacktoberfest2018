@@ -46,4 +46,3 @@ If you don't already have one, choose and install a code editor, and spend some 
 
   - [GitHub](https://github.com/githubuser)
   Summary of what you did today
-
