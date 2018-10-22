@@ -42,7 +42,7 @@ If you don't already have one, choose and install a code editor, and spend some 
 - [First Timers Only](https://www.firsttimersonly.com/)
 
 ## Today's contributions
-- **Your Name**
+- [**Julia Kroll**](https://github.com/j-kroll)
 
-  - [GitHub](https://github.com/githubuser)
-  Summary of what you did today
+  - [Migrate from v1 to v2 API for command-line news reader](https://github.com/Griffintaur/News-At-Command-Line/pull/42)
+  - [Add missing region configuration for AWS CLI library botocore](https://github.com/boto/botocore/pull/1585)
